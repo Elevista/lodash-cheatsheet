@@ -1,0 +1,22 @@
+{
+  "name": "lodash-cheatsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elevista/lodash-cheathseet.git"
+  },
+  "author": "Elevista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elevista/lodash-cheathseet/issues"
+  },
+  "homepage": "https://github.com/Elevista/lodash-cheathseet#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
